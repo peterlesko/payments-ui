@@ -10,18 +10,13 @@
     margin-right: 50px;
 }
 
-
-
-
-
-
-
-margin-top: 30px;
+.pageHeader ul.nav {
+  margin-top: 30px;
 }
 
 .pageHeader ul.nav li {
-    display:inline;
-    padding: 20px;
-    font-size: 1.5em;
-    color: brown;
+  display:inline;
+  padding: 20px;
+  font-size: 1.5em;
+  color: brown;
 }
